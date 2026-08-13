@@ -247,9 +247,3 @@ Real company data, client information, credentials, and proprietary campaign inf
 All examples use fictional or anonymized data so the workflows can be safely shared and adapted by others.
 
 Contributions, suggestions, and new workflow ideas are welcome.
-
----
-
-## License
-
-MIT License
